@@ -1,6 +1,9 @@
-# william-de-Souza-Mendes-1b-N:54
+**William N54**
 
-#  Dragão das Trevas
+# PensamentoComputacional-1B
+
+Dragão das Trevas 
+
 _Dragão das trevas,_
 _Da ganancia que se banha em sangue;_
 _Do próprio sangue_
@@ -27,7 +30,7 @@ _Colherá lágrimas de sangue,_
 _Oh existência mais vazia que imensidões_
 _de buracos negros_
 _E mais perturbada de todos os sete_
-_infernos_
+_infernos_**
 ![image](https://user-images.githubusercontent.com/107428667/182228581-23133043-31e6-4372-ab5b-9e5a6616fa77.png)
 
 @LiziBubalski
